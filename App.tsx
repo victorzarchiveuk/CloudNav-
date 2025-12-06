@@ -18,7 +18,7 @@ import SettingsModal from './components/SettingsModal';
 
 // --- 配置项 ---
 // 项目核心仓库地址
-const GITHUB_REPO_URL = 'https://github.com/sese972010/CloudNav-';
+const GITHUB_REPO_URL = 'https://zjpk.tv';
 
 const LOCAL_STORAGE_KEY = 'cloudnav_data_cache';
 const AUTH_KEY = 'cloudnav_auth_token';
@@ -609,7 +609,7 @@ function App() {
                  title="Fork this project on GitHub"
                >
                  <GitFork size={14} />
-                 <span>Fork 项目</span>
+                 <span>ZJPK.TV</span>
                </a>
             </div>
         </div>
